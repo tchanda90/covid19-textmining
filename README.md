@@ -55,9 +55,9 @@ First, the documents on COVID-19 are retrieved using a BM-25 search engine. Then
 ---
 
 *Question: High Risk Group - TF-IDF*
-![](https://raw.githubusercontent.com/tchanda90/covid19-textmining/master/img/incubation1_tfidf.jpg)
+![](https://raw.githubusercontent.com/tchanda90/covid19-textmining/master/img/highrisk1_tfidf.jpg)
 *Question: High Risk Group - WMD*
-![](https://raw.githubusercontent.com/tchanda90/covid19-textmining/master/img/incubation1_wmd.jpg)
+![](https://raw.githubusercontent.com/tchanda90/covid19-textmining/master/img/highrisk1_wmd.jpg)
 
 ---
 
