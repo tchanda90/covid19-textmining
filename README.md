@@ -76,7 +76,7 @@ First, the documents on COVID-19 are retrieved using a BM-25 search engine. Then
 ---
 
 *Question: Neonates of Mothers with Covid-19 - TF-IDF*
-![](https://raw.githubusercontent.com/cjneetha/covid19-textmining/master/img/neonates_tfidf1.jpg)
+![](https://raw.githubusercontent.com/cjneetha/covid19-textmining/master/img/neonates1_tfidf.jpg)
 *Question: Neonates of Mothers with Covid-19 - WMD*
 ![](https://raw.githubusercontent.com/cjneetha/covid19-textmining/master/img/neonates1_wmd.jpg)
 
