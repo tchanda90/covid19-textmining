@@ -1,0 +1,5 @@
+site_name: COVID-19 Text Mining
+nav:
+    - Home: index.md
+    - App: app.md
+theme: material
